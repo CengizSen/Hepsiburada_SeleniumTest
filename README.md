@@ -1,5 +1,33 @@
 #HepsiBurada Selenium Test Case
 
+• Hepsiburada.com sitesi açılır
+• Hepsiburada.com sitesinin açıldığı kontrol edilir.
+• Giriş yap butonuna basılır.
+• Login olunur.
+• Login olunduğu kontrol edilir.
+• Arama alanına bilgisayar yazılır
+• Filtrele seçeneğinden hp seçilir
+• Random ürün seçilir
+• Ürün sepete eklenir
+• Ürünün sepete eklendiği kontrol edilir
+• Sepetim sayfasına gidilir
+• Ürün adedi 1 arttılır
+• Alışverişi tamamla butonuna basılır
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <h1 align="center">Hi 👋, I'm Cengiz</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
