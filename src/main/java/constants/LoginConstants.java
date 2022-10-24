@@ -3,7 +3,7 @@ package constants;
 import org.openqa.selenium.By;
 
 public class LoginConstants {
-    public static final String EMAIL="gulserentestinium@gmail.com";
+    public static final String EMAIL="";
     public static final String PASSWORD="Test1234.";
 
     public static final By BUTTON_LOGIN = By.cssSelector("button[id=\"btnLogin\"]");
